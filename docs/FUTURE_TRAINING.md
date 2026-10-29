@@ -37,7 +37,7 @@ For an expressly authorized reproduction with unavailable patient IDs, append `-
 Future inference and evaluation using local trained weights (also not executed):
 
 ```bash
-fracatlas predict --config configs/yolo11_detect.yaml --checkpoint runs/yolo11_detect/train/weights/best.pt --source "../FractAtlas Dataset/FracAtlas/images/Fractured/IMG0000019.jpg" --output reports/prediction.json
+fracatlas predict --config configs/yolo11_detect.yaml --checkpoint runs/yolo11_detect/train/weights/best.pt --source "FractAtlas Dataset/FracAtlas/images/Fractured/IMG0000019.jpg" --output reports/prediction.json
 fracatlas evaluate-yolo --config configs/yolo11_detect.yaml --checkpoint runs/yolo11_detect/train/weights/best.pt --split test --output reports/yolo11_test.json
 ```
 

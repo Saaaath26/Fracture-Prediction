@@ -1,6 +1,6 @@
 model: yolo26n-seg.pt
 task: segment
-dataset_root: "../../../FractAtlas Dataset/FracAtlas"
+dataset_root: "../../FractAtlas Dataset/FracAtlas"
 prepared_root: "../../artifacts/derived_segment"
 output_root: "../../runs/derived_yolo26_segment"
 epochs: 100

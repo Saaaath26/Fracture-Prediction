@@ -1,0 +1,25 @@
+<annotation>
+	<folder>fracatlas</folder>
+	<filename>IMG0000151.jpg</filename>
+	<path>/fracatlas/IMG0000151.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2304</width>
+		<height>2880</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>fractured</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>962</xmin>
+			<ymin>1041</ymin>
+			<xmax>1066</xmax>
+			<ymax>1381</ymax>
+		</bndbox>
+	</object>
+</annotation>
