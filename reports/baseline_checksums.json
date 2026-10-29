@@ -1,0 +1,17 @@
+{
+  "LICENSE": "6707e4d48b89aa40a411d09eef95814efa8a6d3c8ae7cfddbc17229a007ecbef",
+  "README.md": "72680a5ddab58de031940e3854664aeed53536196bfb77dc569ba37086063171",
+  ".gitignore": "284682665f0a4aecee6cd337644766bc68c4416b4a1cd7e7f3ce0474d906beee",
+  "weights/yolov8_localization_fractureAtlas.pt": "e0763676fa9745284e8845b9b63d656c308f48195a999fd1874ba2dcdb9c524a",
+  "weights/README.md": "3a3829c84c9aa0017820343ceefee970e774323d5c1dd64bea3e571faf993822",
+  "weights/yolov8_segmentation_fractureAtlas.pt": "2f1dc81f2214e94e59398c8ead22bd1939601a735870faaec44452b01385fb35",
+  "assets/UIU_logo.png": "c1b3ddf73740fa553fca0d785d1bd70c03bff191f9b24b92d1732c0d42f86781",
+  "assets/IUT_logo.png": "45e9c2f8c0401cf5749fa64c2ab5467b448e916db0c70a79a3360af607bfc508",
+  "notebooks/Train_8s.ipynb": "b0ce2ee3cee331559222907ab3adce3ec83fa2414f48c740aaacf65a325e4a02",
+  "notebooks/README.md": "d2de52e225db06f8d8581223adc9e5004ef0f6065a3647c13826e077160288cd",
+  "notebooks/Prediction_8s.ipynb": "f6830f4a7ac2ac0aff91000a90ccb7bc369e2c847d87798d257fcb887a53773a",
+  "notebooks/data.yaml": "a84286d2db2324983cb41695ff7386a1e4857a482532b743f10c454bf9fc870d",
+  "notebooks/Distribution/valid.csv": "d8f6f2ae0d52af427a9d0f012232a787932973f4aac17a083befe711babfcdff",
+  "notebooks/Distribution/test.csv": "5206be1a413c41fcef25e6f2823c3a5ef0981b3fb5db3210f06ca45f48d2cef9",
+  "notebooks/Distribution/train.csv": "dcba7212552093add4440daa7a4823af36338b69ae461b5de749a860319cfca2"
+}

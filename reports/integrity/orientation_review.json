@@ -1,0 +1,141 @@
+{
+  "applied_because_unique_size_match": [
+    {
+      "image_id": "IMG0002628.jpg",
+      "policy": "exif_transpose_matches_annotation",
+      "stored_size": [
+        373,
+        454
+      ],
+      "aligned_size": [
+        454,
+        373
+      ],
+      "exif_orientation": 8,
+      "exif_applied": true
+    }
+  ],
+  "not_applied": [
+    {
+      "image_id": "IMG0002588.jpg",
+      "exif_orientation": 3,
+      "reason": "stored pixels already match the annotation frame"
+    },
+    {
+      "image_id": "IMG0000428.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0000429.jpg",
+      "exif_orientation": 8,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0000435.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0000436.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0000439.jpg",
+      "exif_orientation": 8,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0000679.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0000680.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0000726.jpg",
+      "exif_orientation": 8,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0000789.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0001169.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0001268.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0001490.jpg",
+      "exif_orientation": 8,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0001753.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0001803.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0001825.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0001853.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0001861.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0001864.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0001878.jpg",
+      "exif_orientation": 8,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0001988.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0002026.jpg",
+      "exif_orientation": 6,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0002288.jpg",
+      "exif_orientation": 3,
+      "reason": "no annotation dimensions; stored pixels kept"
+    },
+    {
+      "image_id": "IMG0002289.jpg",
+      "exif_orientation": 3,
+      "reason": "no annotation dimensions; stored pixels kept"
+    }
+  ],
+  "rule": "Apply EXIF orientation only when stored size differs from the annotation size and the oriented size matches it exactly. Other orientation tags stay on stored pixels so annotation coordinates are not rotated away from the labeled frame."
+}

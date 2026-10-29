@@ -1,0 +1,48 @@
+{
+  "integrity_policy_version": 1,
+  "dataset_root": "/Users/pentyalasaatwik/Desktop/Fracture Prediction/FractAtlas Dataset/FracAtlas",
+  "original_files_policy": "read_only_not_modified",
+  "images": 4083,
+  "metadata_rows": 4083,
+  "official_splits": {
+    "train": 574,
+    "val": 82,
+    "test": 63
+  },
+  "derived_split_counts": {
+    "train": 559,
+    "val": 68,
+    "test": 63
+  },
+  "exclusions": 88,
+  "blocking_errors": [
+    "Decoded-pixel duplicates cross official splits"
+  ],
+  "warning_count": 59,
+  "unusable_unassigned": 59,
+  "orientation_corrections": [
+    {
+      "image_id": "IMG0002628.jpg",
+      "policy": "exif_transpose_matches_annotation",
+      "stored_size": [
+        373,
+        454
+      ],
+      "aligned_size": [
+        454,
+        373
+      ],
+      "exif_orientation": 8,
+      "exif_applied": true
+    }
+  ],
+  "exif_orientation_not_applied_count": 24,
+  "cross_split_duplicate_groups": 8,
+  "pixel_duplicate_groups": 78,
+  "byte_duplicate_groups": 12,
+  "near_duplicate_groups": 117,
+  "patient_leakage": "unresolved: no patient identifiers",
+  "anatomical_annotations": "absent: COCO contains fracture regions only",
+  "patient_identifiers": "absent; derived split does not claim patient independence",
+  "training_executed": false
+}

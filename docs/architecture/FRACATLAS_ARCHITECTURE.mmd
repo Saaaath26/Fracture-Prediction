@@ -1,0 +1,53 @@
+flowchart TB
+  subgraph original [Original and read-only]
+    dataset["FracAtlas radiographs, COCO, metadata, official splits"]
+    yolo8["Author YOLOv8 checkpoints and notebooks"]
+  end
+
+  subgraph audit [Implemented integrity]
+    inventory["Dataset index"]
+    findings["Truncation, EXIF, exact duplicates, dHash candidates"]
+    manifest["Derived exclusion manifest"]
+  end
+
+  subgraph yolo [Configured, untrained, Ultralytics not installed]
+    prep["Isolated YOLO prepare"]
+    det["YOLO11 and YOLO26 detection"]
+    seg["YOLO11 and YOLO26 fracture instance segmentation"]
+  end
+
+  subgraph anatomy [Anatomical branch]
+    classical["Bone and soft-tissue candidates"]
+    verified["U-Net and nnU-Net: blocked, no verified masks"]
+  end
+
+  subgraph study [Relationship study]
+    geom["Pixel and scale-free geometry"]
+    descriptive["Ground-truth fracture relationship, not a model input"]
+    models["Logistic regression and XGBoost: guarded, not fit"]
+    siamese["Siamese pairs: blocked, no pair labels"]
+  end
+
+  dash["Research dashboard"]
+  export["JSON and CSV exports"]
+  rgb["Future RGB or video limb boundary: not implemented"]
+
+  dataset --> inventory --> findings --> manifest
+  manifest --> prep
+  dataset --> prep
+  prep --> det
+  prep --> seg
+  yolo8 -.->|"baseline files, not loaded"| dash
+  dataset --> classical --> geom
+  classical --> descriptive
+  geom --> models
+  geom --> export
+  descriptive --> export
+  det -.->|"prediction JSON, none produced"| dash
+  seg -.->|"prediction JSON, none produced"| dash
+  classical --> dash
+  export --> dash
+  verified -.-> classical
+  models -.-> export
+  siamese -.-> study
+  geom -.-> rgb

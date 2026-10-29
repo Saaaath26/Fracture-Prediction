@@ -1,0 +1,1123 @@
+[
+  {
+    "image_id": "IMG0004028.jpg",
+    "relative_path": "images/Non_fractured/IMG0004028.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004028.jpg: image file is truncated (20 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004029.jpg",
+    "relative_path": "images/Non_fractured/IMG0004029.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004029.jpg: image file is truncated (23 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004036.jpg",
+    "relative_path": "images/Non_fractured/IMG0004036.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004036.jpg: image file is truncated (13 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004070.jpg",
+    "relative_path": "images/Non_fractured/IMG0004070.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004070.jpg: image file is truncated (2 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004073.jpg",
+    "relative_path": "images/Non_fractured/IMG0004073.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004073.jpg: image file is truncated (6 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004076.jpg",
+    "relative_path": "images/Non_fractured/IMG0004076.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004076.jpg: image file is truncated (0 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004079.jpg",
+    "relative_path": "images/Non_fractured/IMG0004079.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004079.jpg: image file is truncated (27 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004084.jpg",
+    "relative_path": "images/Non_fractured/IMG0004084.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004084.jpg: image file is truncated (5 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004092.jpg",
+    "relative_path": "images/Non_fractured/IMG0004092.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004092.jpg: image file is truncated (7 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        454,
+        373
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004098.jpg",
+    "relative_path": "images/Non_fractured/IMG0004098.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004098.jpg: image file is truncated (19 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004100.jpg",
+    "relative_path": "images/Non_fractured/IMG0004100.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004100.jpg: image file is truncated (20 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004109.jpg",
+    "relative_path": "images/Non_fractured/IMG0004109.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004109.jpg: image file is truncated (7 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004119.jpg",
+    "relative_path": "images/Non_fractured/IMG0004119.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004119.jpg: image file is truncated (8 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004120.jpg",
+    "relative_path": "images/Non_fractured/IMG0004120.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004120.jpg: image file is truncated (10 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004121.jpg",
+    "relative_path": "images/Non_fractured/IMG0004121.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004121.jpg: image file is truncated (42 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004122.jpg",
+    "relative_path": "images/Non_fractured/IMG0004122.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004122.jpg: image file is truncated (32 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004123.jpg",
+    "relative_path": "images/Non_fractured/IMG0004123.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004123.jpg: image file is truncated (18 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004129.jpg",
+    "relative_path": "images/Non_fractured/IMG0004129.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004129.jpg: image file is truncated (4 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004130.jpg",
+    "relative_path": "images/Non_fractured/IMG0004130.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004130.jpg: image file is truncated (7 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004134.jpg",
+    "relative_path": "images/Non_fractured/IMG0004134.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004134.jpg: image file is truncated (3 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004142.jpg",
+    "relative_path": "images/Non_fractured/IMG0004142.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004142.jpg: image file is truncated (33 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004143.jpg",
+    "relative_path": "images/Non_fractured/IMG0004143.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004143.jpg: image file is truncated (8 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004145.jpg",
+    "relative_path": "images/Non_fractured/IMG0004145.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004145.jpg: image file is truncated (0 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004148.jpg",
+    "relative_path": "images/Non_fractured/IMG0004148.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004148.jpg: image file is truncated (18 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004149.jpg",
+    "relative_path": "images/Non_fractured/IMG0004149.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004149.jpg: image file is truncated (37 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004154.jpg",
+    "relative_path": "images/Non_fractured/IMG0004154.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004154.jpg: image file is truncated (26 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004155.jpg",
+    "relative_path": "images/Non_fractured/IMG0004155.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004155.jpg: image file is truncated (0 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004159.jpg",
+    "relative_path": "images/Non_fractured/IMG0004159.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004159.jpg: image file is truncated (10 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004169.jpg",
+    "relative_path": "images/Non_fractured/IMG0004169.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004169.jpg: image file is truncated (15 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004170.jpg",
+    "relative_path": "images/Non_fractured/IMG0004170.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004170.jpg: image file is truncated (12 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004173.jpg",
+    "relative_path": "images/Non_fractured/IMG0004173.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004173.jpg: image file is truncated (5 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004174.jpg",
+    "relative_path": "images/Non_fractured/IMG0004174.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004174.jpg: image file is truncated (6 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004177.jpg",
+    "relative_path": "images/Non_fractured/IMG0004177.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004177.jpg: image file is truncated (38 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004189.jpg",
+    "relative_path": "images/Non_fractured/IMG0004189.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004189.jpg: image file is truncated (0 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004194.jpg",
+    "relative_path": "images/Non_fractured/IMG0004194.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004194.jpg: image file is truncated (0 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004226.jpg",
+    "relative_path": "images/Non_fractured/IMG0004226.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004226.jpg: image file is truncated (28 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004227.jpg",
+    "relative_path": "images/Non_fractured/IMG0004227.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004227.jpg: image file is truncated (33 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004228.jpg",
+    "relative_path": "images/Non_fractured/IMG0004228.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004228.jpg: image file is truncated (19 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004251.jpg",
+    "relative_path": "images/Non_fractured/IMG0004251.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004251.jpg: image file is truncated (24 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004252.jpg",
+    "relative_path": "images/Non_fractured/IMG0004252.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004252.jpg: image file is truncated (71 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004255.jpg",
+    "relative_path": "images/Non_fractured/IMG0004255.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004255.jpg: image file is truncated (21 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004256.jpg",
+    "relative_path": "images/Non_fractured/IMG0004256.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004256.jpg: image file is truncated (70 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004258.jpg",
+    "relative_path": "images/Non_fractured/IMG0004258.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004258.jpg: image file is truncated (5 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004259.jpg",
+    "relative_path": "images/Non_fractured/IMG0004259.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004259.jpg: image file is truncated (6 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004263.jpg",
+    "relative_path": "images/Non_fractured/IMG0004263.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004263.jpg: image file is truncated (24 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004273.jpg",
+    "relative_path": "images/Non_fractured/IMG0004273.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004273.jpg: image file is truncated (12 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004275.jpg",
+    "relative_path": "images/Non_fractured/IMG0004275.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004275.jpg: image file is truncated (25 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004278.jpg",
+    "relative_path": "images/Non_fractured/IMG0004278.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004278.jpg: image file is truncated (30 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004279.jpg",
+    "relative_path": "images/Non_fractured/IMG0004279.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004279.jpg: image file is truncated (6 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004285.jpg",
+    "relative_path": "images/Non_fractured/IMG0004285.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004285.jpg: image file is truncated (13 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004286.jpg",
+    "relative_path": "images/Non_fractured/IMG0004286.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004286.jpg: image file is truncated (49 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004288.jpg",
+    "relative_path": "images/Non_fractured/IMG0004288.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004288.jpg: image file is truncated (4 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004290.jpg",
+    "relative_path": "images/Non_fractured/IMG0004290.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004290.jpg: image file is truncated (60 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004291.jpg",
+    "relative_path": "images/Non_fractured/IMG0004291.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004291.jpg: image file is truncated (13 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004297.jpg",
+    "relative_path": "images/Non_fractured/IMG0004297.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004297.jpg: image file is truncated (10 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004298.jpg",
+    "relative_path": "images/Non_fractured/IMG0004298.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004298.jpg: image file is truncated (19 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004304.jpg",
+    "relative_path": "images/Non_fractured/IMG0004304.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004304.jpg: image file is truncated (23 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004308.jpg",
+    "relative_path": "images/Non_fractured/IMG0004308.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004308.jpg: image file is truncated (42 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  },
+  {
+    "image_id": "IMG0004347.jpg",
+    "relative_path": "images/Non_fractured/IMG0004347.jpg",
+    "strict_decode": "failed",
+    "strict_error": "IMG0004347.jpg: image file is truncated (42 bytes not processed)",
+    "partial_decode_with_truncated_loader": {
+      "possible": true,
+      "size": [
+        373,
+        454
+      ],
+      "mode": "RGB"
+    },
+    "accepted_for_research": false,
+    "reason": "Partial JPEG recovery would conceal a corrupt sample",
+    "in_official_split": false,
+    "fractured": "0",
+    "original_modified": false
+  }
+]

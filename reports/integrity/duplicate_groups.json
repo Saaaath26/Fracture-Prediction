@@ -1,0 +1,534 @@
+[
+  {
+    "members": [
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 15602,
+        "pixel_sha256": "f141b38889050326805900da7511fd0d969919dac94ff7fd0668608c14c76f2f",
+        "image_id": "IMG0002745.jpg",
+        "relative_path": "images/Fractured/IMG0002745.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "2"
+      },
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 16193,
+        "pixel_sha256": "f141b38889050326805900da7511fd0d969919dac94ff7fd0668608c14c76f2f",
+        "image_id": "IMG0004116.jpg",
+        "relative_path": "images/Fractured/IMG0004116.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "1"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": false,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "cross_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 17481,
+        "pixel_sha256": "517d735df26384613c9db852f6cecbc0b4fa050b90b819f960e3bec35332726e",
+        "image_id": "IMG0002750.jpg",
+        "relative_path": "images/Fractured/IMG0002750.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "1"
+      },
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 19926,
+        "pixel_sha256": "517d735df26384613c9db852f6cecbc0b4fa050b90b819f960e3bec35332726e",
+        "image_id": "IMG0004114.jpg",
+        "relative_path": "images/Fractured/IMG0004114.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "1"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": false,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "cross_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 17440,
+        "pixel_sha256": "13ce7862d3514ef37ecb2924c7251e948defb8f1b27ac2a369dda4b0e26a8b17",
+        "image_id": "IMG0002790.jpg",
+        "relative_path": "images/Fractured/IMG0002790.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "3"
+      },
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 19736,
+        "pixel_sha256": "13ce7862d3514ef37ecb2924c7251e948defb8f1b27ac2a369dda4b0e26a8b17",
+        "image_id": "IMG0004151.jpg",
+        "relative_path": "images/Fractured/IMG0004151.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "2"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": false,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "cross_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 13458,
+        "pixel_sha256": "1f1a88ca4567c924af17bcf320cd067d3c9c84bf7b75cbc8ccafb81ca1149f8a",
+        "image_id": "IMG0002847.jpg",
+        "relative_path": "images/Fractured/IMG0002847.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "1"
+      },
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 14244,
+        "pixel_sha256": "1f1a88ca4567c924af17bcf320cd067d3c9c84bf7b75cbc8ccafb81ca1149f8a",
+        "image_id": "IMG0004208.jpg",
+        "relative_path": "images/Fractured/IMG0004208.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "1"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": false,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "cross_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 12314,
+        "pixel_sha256": "5cb9d099deadc01c9bdfb4d115a0f05b0ce88d4ead18c24d6af7549cc80a98c4",
+        "image_id": "IMG0002849.jpg",
+        "relative_path": "images/Fractured/IMG0002849.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "1"
+      },
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 15092,
+        "pixel_sha256": "5cb9d099deadc01c9bdfb4d115a0f05b0ce88d4ead18c24d6af7549cc80a98c4",
+        "image_id": "IMG0004207.jpg",
+        "relative_path": "images/Fractured/IMG0004207.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "1"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": false,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "cross_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          454,
+          373
+        ],
+        "byte_size": 13543,
+        "pixel_sha256": "12c558319b398bd176fc6088cc3e3a135e7d356e9299619e7bebdd49ba0deabb",
+        "image_id": "IMG0002905.jpg",
+        "relative_path": "images/Fractured/IMG0002905.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "1"
+      },
+      {
+        "stored_size": [
+          454,
+          373
+        ],
+        "byte_size": 15320,
+        "pixel_sha256": "12c558319b398bd176fc6088cc3e3a135e7d356e9299619e7bebdd49ba0deabb",
+        "image_id": "IMG0004233.jpg",
+        "relative_path": "images/Fractured/IMG0004233.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "1"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": false,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "cross_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 17676,
+        "pixel_sha256": "a61d8c5ce4d357daac8ed5a5137b457feaff2ed30c233fbda80b1ba09325610a",
+        "image_id": "IMG0002946.jpg",
+        "relative_path": "images/Fractured/IMG0002946.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "1"
+      },
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 18153,
+        "pixel_sha256": "a61d8c5ce4d357daac8ed5a5137b457feaff2ed30c233fbda80b1ba09325610a",
+        "image_id": "IMG0004267.jpg",
+        "relative_path": "images/Fractured/IMG0004267.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "1"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": false,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "cross_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 16534,
+        "pixel_sha256": "caa3ecafe457ba761dc1783411574ec77c6cee3c8067375c51cc0bf97e87b0b2",
+        "image_id": "IMG0003020.jpg",
+        "relative_path": "images/Fractured/IMG0003020.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "1"
+      },
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 22896,
+        "pixel_sha256": "caa3ecafe457ba761dc1783411574ec77c6cee3c8067375c51cc0bf97e87b0b2",
+        "image_id": "IMG0004320.jpg",
+        "relative_path": "images/Fractured/IMG0004320.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "1"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": false,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "cross_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          1760,
+          2140
+        ],
+        "byte_size": 196975,
+        "pixel_sha256": "559669de647f896f14da4724aa351cfc05cde935ae1c50b0be9deb029274d483",
+        "image_id": "IMG0000261.jpg",
+        "relative_path": "images/Fractured/IMG0000261.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "2"
+      },
+      {
+        "stored_size": [
+          1760,
+          2140
+        ],
+        "byte_size": 196975,
+        "pixel_sha256": "559669de647f896f14da4724aa351cfc05cde935ae1c50b0be9deb029274d483",
+        "image_id": "IMG0002299.jpg",
+        "relative_path": "images/Fractured/IMG0002299.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "2"
+      },
+      {
+        "stored_size": [
+          1760,
+          2140
+        ],
+        "byte_size": 196975,
+        "pixel_sha256": "559669de647f896f14da4724aa351cfc05cde935ae1c50b0be9deb029274d483",
+        "image_id": "IMG0002300.jpg",
+        "relative_path": "images/Fractured/IMG0002300.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "2"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": true,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "within_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 13023,
+        "pixel_sha256": "61e70a81d657ce340528f107da5e13ba3708241a01ec90bc384fed3fa3a18ae3",
+        "image_id": "IMG0001763.jpg",
+        "relative_path": "images/Fractured/IMG0001763.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "1"
+      },
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 13023,
+        "pixel_sha256": "61e70a81d657ce340528f107da5e13ba3708241a01ec90bc384fed3fa3a18ae3",
+        "image_id": "IMG0002615.jpg",
+        "relative_path": "images/Fractured/IMG0002615.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "1"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": true,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "within_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          1760,
+          2140
+        ],
+        "byte_size": 124644,
+        "pixel_sha256": "a22026d5e6626bd04807bbd51f2e790c60dd9ee1860a1aa79327287654e687f4",
+        "image_id": "IMG0002298.jpg",
+        "relative_path": "images/Fractured/IMG0002298.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "2"
+      },
+      {
+        "stored_size": [
+          1760,
+          2140
+        ],
+        "byte_size": 124644,
+        "pixel_sha256": "a22026d5e6626bd04807bbd51f2e790c60dd9ee1860a1aa79327287654e687f4",
+        "image_id": "IMG0002379.jpg",
+        "relative_path": "images/Fractured/IMG0002379.jpg",
+        "splits": [
+          "train"
+        ],
+        "fracture_count": "2"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": true,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "within_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 14311,
+        "pixel_sha256": "569a8dd1ccd65d3f2d8c5630899ebe4204387aa0b3f2fba225bc3f9f207c31ed",
+        "image_id": "IMG0004042.jpg",
+        "relative_path": "images/Fractured/IMG0004042.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "1"
+      },
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 11974,
+        "pixel_sha256": "569a8dd1ccd65d3f2d8c5630899ebe4204387aa0b3f2fba225bc3f9f207c31ed",
+        "image_id": "IMG0004375.jpg",
+        "relative_path": "images/Fractured/IMG0004375.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "1"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": false,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "within_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 15986,
+        "pixel_sha256": "eba7721a55bcfd99c6a058a97e6d3083a02061f74d2e68e81e2fcdd82e553c58",
+        "image_id": "IMG0004043.jpg",
+        "relative_path": "images/Fractured/IMG0004043.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "2"
+      },
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 13373,
+        "pixel_sha256": "eba7721a55bcfd99c6a058a97e6d3083a02061f74d2e68e81e2fcdd82e553c58",
+        "image_id": "IMG0004376.jpg",
+        "relative_path": "images/Fractured/IMG0004376.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "1"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": false,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "within_split_exact_decoded_pixels"
+  },
+  {
+    "members": [
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 15886,
+        "pixel_sha256": "3816d048afc437489f5e061bcf2cf19ba8b14b8f660150cf04ba00f3d2d059d4",
+        "image_id": "IMG0004044.jpg",
+        "relative_path": "images/Fractured/IMG0004044.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "1"
+      },
+      {
+        "stored_size": [
+          373,
+          454
+        ],
+        "byte_size": 11137,
+        "pixel_sha256": "3816d048afc437489f5e061bcf2cf19ba8b14b8f660150cf04ba00f3d2d059d4",
+        "image_id": "IMG0004374.jpg",
+        "relative_path": "images/Fractured/IMG0004374.jpg",
+        "splits": [
+          "val"
+        ],
+        "fracture_count": "1"
+      }
+    ],
+    "decoded_pixels_identical": true,
+    "byte_identical": false,
+    "annotation_conflict": true,
+    "patient_independence": "not_established",
+    "leakage": "within_split_exact_decoded_pixels"
+  }
+]

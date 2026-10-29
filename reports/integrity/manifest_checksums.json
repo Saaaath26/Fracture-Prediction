@@ -1,0 +1,5 @@
+{
+  "exclusion_manifest_sha256": "c079f8ddb54ce232ae7243ec682fdba4ff7f87145cbb62cbaadab17b9c6697ce",
+  "derived_split_manifest_sha256": "ffd9724c99516c71ca77740d9b4974c7823d32e90641e1fcc5b327cb388b9ab1",
+  "note": "These checksums cover derived manifests only, not original dataset files."
+}

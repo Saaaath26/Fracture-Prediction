@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760">
+  <rect width="1100" height="760" fill="#f7f6f3"/>
+  <text x="40" y="40" font-family="Georgia, serif" font-size="22" fill="#1c1917">FracAtlas architecture after the 2026-10-28 audit</text>
+  <text x="40" y="64" font-family="Helvetica, sans-serif" font-size="13" fill="#44403c">Solid boxes are implemented. Dashed boxes are configured but untrained, or blocked. No model was trained.</text>
+
+  <g font-family="Helvetica, sans-serif" font-size="13" fill="#1c1917">
+    <rect x="40" y="96" width="240" height="78" rx="6" fill="#ffffff" stroke="#44403c"/>
+    <text x="56" y="124">Original FracAtlas dataset</text>
+    <text x="56" y="146" fill="#44403c">Read-only radiographs and COCO</text>
+
+    <rect x="40" y="190" width="240" height="78" rx="6" fill="#ffffff" stroke="#44403c"/>
+    <text x="56" y="218">Author YOLOv8 checkpoints</text>
+    <text x="56" y="240" fill="#44403c">Preserved. Not loaded</text>
+
+    <rect x="330" y="96" width="250" height="172" rx="6" fill="#ffffff" stroke="#44403c"/>
+    <text x="346" y="124">Integrity audit</text>
+    <text x="346" y="148" fill="#44403c">59 truncated JPEGs excluded</text>
+    <text x="346" y="168" fill="#44403c">1 EXIF frame corrected in derived data</text>
+    <text x="346" y="188" fill="#44403c">29 conflicting duplicates quarantined</text>
+    <text x="346" y="208" fill="#44403c">Patient ids still absent</text>
+
+    <rect x="630" y="96" width="270" height="78" rx="6" fill="#ffffff" stroke="#44403c" stroke-dasharray="6 4"/>
+    <text x="646" y="124">YOLO11 / YOLO26 detection</text>
+    <text x="646" y="146" fill="#44403c">Configured. Untrained. Backend absent</text>
+
+    <rect x="630" y="190" width="270" height="78" rx="6" fill="#ffffff" stroke="#44403c" stroke-dasharray="6 4"/>
+    <text x="646" y="218">YOLO11 / YOLO26 segmentation</text>
+    <text x="646" y="240" fill="#44403c">Fracture instances, not anatomy</text>
+
+    <rect x="40" y="330" width="250" height="110" rx="6" fill="#ffffff" stroke="#44403c"/>
+    <text x="56" y="358">Candidate contours</text>
+    <text x="56" y="380" fill="#44403c">Bone or soft-tissue hypotheses</text>
+    <text x="56" y="400" fill="#44403c">Abstain on truncated boundaries</text>
+    <text x="56" y="420" fill="#44403c">Not a validated segmentation</text>
+
+    <rect x="330" y="330" width="250" height="110" rx="6" fill="#ffffff" stroke="#44403c" stroke-dasharray="6 4"/>
+    <text x="346" y="358">U-Net and nnU-Net</text>
+    <text x="346" y="380" fill="#44403c">Code present</text>
+    <text x="346" y="400" fill="#44403c">Blocked: no verified masks</text>
+    <text x="346" y="420" fill="#44403c">Fracture polygons are refused</text>
+
+    <rect x="620" y="330" width="280" height="110" rx="6" fill="#ffffff" stroke="#44403c"/>
+    <text x="636" y="358">Geometry</text>
+    <text x="636" y="380" fill="#44403c">Pixels, scale-free shape, projection caveat</text>
+    <text x="636" y="400" fill="#44403c">Ground-truth relationship kept out of</text>
+    <text x="636" y="420" fill="#44403c">the fracture-presence classifier</text>
+
+    <rect x="40" y="500" width="300" height="90" rx="6" fill="#ffffff" stroke="#44403c" stroke-dasharray="6 4"/>
+    <text x="56" y="528">Relationship models</text>
+    <text x="56" y="550" fill="#44403c">Logistic regression, XGBoost, Siamese</text>
+    <text x="56" y="570" fill="#44403c">Guarded. Not fit. Pairs unlabeled</text>
+
+    <rect x="370" y="500" width="250" height="90" rx="6" fill="#ffffff" stroke="#44403c"/>
+    <text x="386" y="528">Dashboard and exports</text>
+    <text x="386" y="550" fill="#44403c">No fabricated predictions</text>
+    <text x="386" y="570" fill="#44403c">YOLO11 and YOLO26 shown untrained</text>
+
+    <rect x="650" y="500" width="300" height="90" rx="6" fill="#ffffff" stroke="#44403c" stroke-dasharray="6 4"/>
+    <text x="666" y="528">Future RGB / video boundary</text>
+    <text x="666" y="550" fill="#44403c">Not implemented</text>
+    <text x="666" y="570" fill="#44403c">Radiographs do not supply limb photos</text>
+  </g>
+
+  <g stroke="#44403c" fill="none" stroke-width="1.4">
+    <path d="M280 135 H330"/>
+    <path d="M580 135 H630"/>
+    <path d="M580 229 H630"/>
+    <path d="M165 268 V330"/>
+    <path d="M290 385 H330"/>
+    <path d="M580 385 H620"/>
+    <path d="M165 440 V500"/>
+    <path d="M760 440 V500"/>
+    <path d="M455 440 V500"/>
+  </g>
+  <g font-family="Helvetica, sans-serif" font-size="12" fill="#44403c">
+    <rect x="40" y="640" width="16" height="16" fill="#ffffff" stroke="#44403c"/>
+    <text x="64" y="653">Implemented and executable without training</text>
+    <rect x="360" y="640" width="16" height="16" fill="#ffffff" stroke="#44403c" stroke-dasharray="4 3"/>
+    <text x="384" y="653">Configured, untrained, blocked, or future</text>
+  </g>
+</svg>
