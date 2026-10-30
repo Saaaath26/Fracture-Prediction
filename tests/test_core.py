@@ -113,6 +113,40 @@ def test_serialization(tmp_path, square):
         feature_record("x", {}, {}, "fracture_mask")
 
 
+def test_gpu_budget_and_train_arguments(tmp_path):
+    from fracatlas.config import Experiment
+    from fracatlas.yolo import train_arguments
+
+    config = Experiment(
+        "yolo11s.pt",
+        "detect",
+        tmp_path / "data",
+        tmp_path / "prepared",
+        tmp_path / "run",
+        device="cuda",
+        batch=16,
+        imgsz=640,
+    )
+    args = train_arguments(config, tmp_path / "prepared" / "data.yaml")
+    assert args["optimizer"] == "AdamW"
+    assert args["lr0"] == 0.001
+    assert args["hsv_h"] == 0.0 and args["hsv_s"] == 0.0
+    assert args["patience"] == 40
+    assert args["pretrained"] is True
+    too_large = Experiment(
+        "yolo11s.pt",
+        "detect",
+        tmp_path / "data",
+        tmp_path / "prepared",
+        tmp_path / "run",
+        device="cuda",
+        batch=12,
+        imgsz=1088,
+    )
+    with pytest.raises(ValueError, match="16GB"):
+        too_large.validate()
+
+
 def test_config_paths_and_models(tmp_path):
     for version in (11, 26):
         for task, suffix in [("detect", ""), ("segment", "-seg")]:

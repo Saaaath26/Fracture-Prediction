@@ -54,15 +54,46 @@ def train(config, authorized=False, acknowledge_unresolved_leakage=False):
     config.output_root.mkdir(parents=True)
     write_json(config.output_root / "experiment.json", config.serializable())
     model = YOLO(config.model, task=config.task)
-    return model.train(
+    return model.train(**train_arguments(config, data))
+
+
+def train_arguments(config, data):
+    """Fine-tuning arguments for a few hundred radiographs on a 16GB GPU.
+
+    Radiographs are grayscale and already near 640 pixels, so color jitter and
+    resolutions above 640 are not used. Early stopping is explicit via patience.
+    """
+
+    return dict(
         data=str(data),
         epochs=config.epochs,
+        patience=config.patience,
         imgsz=config.imgsz,
         batch=config.batch,
         seed=config.seed,
         device=resolve_device(config.device),
         workers=config.workers,
-        deterministic=True,
+        optimizer=config.optimizer,
+        lr0=config.lr0,
+        lrf=config.lrf,
+        weight_decay=config.weight_decay,
+        warmup_epochs=config.warmup_epochs,
+        cos_lr=config.cos_lr,
+        close_mosaic=config.close_mosaic,
+        mosaic=config.mosaic,
+        mixup=config.mixup,
+        copy_paste=config.copy_paste,
+        fliplr=config.fliplr,
+        flipud=config.flipud,
+        degrees=config.degrees,
+        translate=config.translate,
+        scale=config.scale,
+        hsv_h=config.hsv_h,
+        hsv_s=config.hsv_s,
+        hsv_v=config.hsv_v,
+        amp=config.amp,
+        deterministic=config.deterministic,
+        pretrained=True,
         project=str(config.output_root),
         name="train",
         exist_ok=False,
